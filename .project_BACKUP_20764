@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>J2EE-Project</name>
+=======
+	<name>ThreadProject</name>
+>>>>>>> 3f94a10805efd174e371a417c9aae5ee4af9bcdb
 	<comment></comment>
 	<projects>
 	</projects>
